@@ -1,0 +1,31 @@
+Python is a popular programming language. It is used in many fields, such as data analysis, artificial intelligence, machine learning, automation, and web development.
+
+
+Advantages and Disadvantages of Python
+--------------------------------------
+
+| Advantages              | Disadvantages                  |
+|-------------------------|--------------------------------|
+| Easy to learn           | Can be slower                  |
+| Simple syntax           | Uses more memory               |
+| Many useful libraries   | Some errors appear at runtime  |
+
+
+Pseudocode is a simple way of describing the steps of a program using plain English.
+It helps programmers plan the logic before writing actual code.
+
+
+Pseudocode – Reading a File
+START
+SET file_name TO "reading.txt"
+    
+OPEN file IN READ MODE
+IF file cannot be opened THEN
+    DISPLAY "Error: File cannot be open"
+    STOP
+ 
+ELSE open file
+    READ one line from file
+    DISPLAY the line
+    CLOSE file
+END
