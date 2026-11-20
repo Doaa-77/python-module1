@@ -1,0 +1,11 @@
+SQL is used to communicate with databases. It allows users to create, retrieve, insert, update, delete, and manage data stored in database tables.
+
+Why do we use SQL?
+1. Retrieve data.
+2. Insert new data.
+3. Update existing data.
+4. Delete data.
+
+Who created SQL?
+SQL was developed at IBM in the 1970s by Donald D. Chamberlin and Raymond F. Boyce.
+It was based on Edgar F. Codd's relational database model.
